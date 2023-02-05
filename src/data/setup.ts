@@ -27,13 +27,13 @@ export const ComponentData: Component[] = [
   },
   {
     type: 'Mouse',
-    name: 'Logitech G203 Lightsync',
-    href: 'https://www.logitechg.com/de-de/products/gaming-mice/g203-prodigy-wired-gaming-mouse.html',
+    name: 'SteelSeries Aerox 3 Wireless',
+    href: 'https://steelseries.com/gaming-mice/aerox-3-2022'
   },
   {
     type: 'Mousepad',
     name: 'SteelSeries QcK',
-    href: 'https://steelseries.com/gaming-mousepads/qck?size=m'
+    href: 'https://steelseries.com/gaming-mousepads/qck?size=l'
   },
   {
     type: 'Headset',
