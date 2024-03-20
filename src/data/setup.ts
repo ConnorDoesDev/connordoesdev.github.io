@@ -7,8 +7,8 @@ export interface Component {
 export const ComponentData: Component[] = [
   {
     type: 'Monitor 1',
-    name: 'ASUS VG248QG',
-    href: 'https://www.asus.com/de/displays-desktops/monitors/gaming/vg248qg/',
+    name: 'ASUS VG27Q',
+    href: 'https://www.asus.com/de/displays-desktops/monitors/gaming/',
   },
   {
     type: 'Monitor 2',
