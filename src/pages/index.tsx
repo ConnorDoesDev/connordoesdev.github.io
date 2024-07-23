@@ -31,7 +31,7 @@ const Home = () => {
   const { theme } = useTheme()
 
   const copyEmail = () => {
-    navigator.clipboard.writeText('c0nnor@nigge.rs')
+    navigator.clipboard.writeText('c0nnor@airmail.cc')
     theme === 'dark'
       ? toast.success('Copied email to clipboard!', {
           style: {
