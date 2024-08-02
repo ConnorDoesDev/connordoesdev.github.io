@@ -22,8 +22,8 @@ export const ComponentData: Component[] = [
   },
   {
     type: 'Keyboard',
-    name: 'Sharkoon Skiller Pro',
-    href: 'https://www.sharkoon.com/de/produkte/produktuebersicht/produkt/keyboard-skiller-pro/',
+    name: 'Wooting Anologue Keyboard',
+    href: 'https://wooting.io',
   },
   {
     type: 'Mouse',
@@ -37,8 +37,8 @@ export const ComponentData: Component[] = [
   },
   {
     type: 'Headset',
-    name: 'HyperX Cloud Stinger',
-    href: 'https://hyperx.com/collections/gaming-headsets/products/hyperx-cloud-stinger'
+    name: 'HyperX Cloud 3',
+    href: 'https://hyperx.com/collections/gaming-headsets/products/hyperx-cloud-3'
   },
   {
     type: 'VR Headset',
@@ -64,5 +64,15 @@ export const ComponentData: Component[] = [
     type: 'Storage Device 2',
     name: 'Samsung SSD 1TB',
     href: 'https://www.samsung.com/en/memory-storage/solid-state-drives/ssd-860-evo-1tb-mz-76e1t0b-am/'
+  },
+  {
+    type: 'Graphics Card',
+    name: 'NVIDIA GeForce RTX 4090 Ti SUPER',
+    href: 'https://nvidia.com'
+  },
+  {
+    type: 'Processor',
+    name: 'AMD Ryzen 9 5950x',
+    href: 'https://amd.com'
   }
 ]

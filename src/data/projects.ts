@@ -11,7 +11,7 @@ export const ProjectData: Project[] = [
   {
     title: 'connor.is-a.dev',
     description:
-      "You're currently here!",
+      "ur here",
     href: '/projects',
     icon: ['fas', 'home'],
   },
@@ -19,14 +19,14 @@ export const ProjectData: Project[] = [
     title: 'VALORANT',
     description:
       "A 5v5 character-based tactical shooter",
-    href: 'https://discord.com/api/oauth2/authorize?client_id=968290486102143036&permissions=2147863552&scope=applications.commands%20bot',
+    href: 'https://vlr.gg',
     icon: ['fas', 'robot'],
   },
   {
-    title: 'placeholder',
+    title: 'EZflip',
     description:
-      "still writing this. just wanted to finish the design first",
-    href: 'https://placeholder.com',
+      "next era of cryptocurrency gambling",
+    href: 'https://ezflip.gg',
     icon: ['fas', 'pen'],
   },
   {

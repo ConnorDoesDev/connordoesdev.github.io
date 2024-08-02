@@ -33,24 +33,24 @@ const Home = () => {
   const copyEmail = () => {
     navigator.clipboard.writeText('c0nnor@airmail.cc')
     theme === 'dark'
-      ? toast.success('Copied email to clipboard!', {
+      ? toast.success('copied to clipboard!', {
           style: {
             background: '#333',
             color: '#fff',
           },
         })
-      : toast.success('Copied email to clipboard!')
+      : toast.success('copied to clipboard!')
   }
 
   return (
     <>
       <a rel="me" href="https://mastodon.lol/@connordouijo" style={{"display": "none"}}></a>
-      <GenericMeta title="Connor" description="Student acting like a fullstack dev." />
+      <GenericMeta title="connor" description="student acting like a fullstack dev" />
 
       <MainLayout margin={false}>
-        <h1 className="text-6xl font-bold">Connor</h1>
+        <h1 className="text-6xl font-bold">connor</h1>
         <p className="text-lg text-gray-600 dark:text-gray-400 max-w-sm mt-2">
-          Student acting like a fullstack dev.
+          student acting like a fullstack dev
         </p>
         <div className="grid grid-flow-col w-48 mt-3 text-lg">
           {AccountData.map((account) => (
